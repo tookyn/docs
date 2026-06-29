@@ -10,6 +10,6 @@ Open `public/index.html` in a browser, or serve the folder with any static file 
 
 ## Publish
 
-The production site is published with Cloudflare Pages Direct Upload from the `public/` directory.
+The production site is published with GitHub Pages from the `public/` directory.
 
-Deployment fallback: <https://tookyn-docs.pages.dev>
+Workflow: `.github/workflows/pages.yml`
